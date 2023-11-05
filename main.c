@@ -819,7 +819,7 @@ size_t curl_write(void *contents, size_t size, size_t nmemb, char **output) {
 char * ReadLineFromURL(){
     CURL *curl = curl_easy_init();
 
-    char url[] = "http://bilgisayar.kocaeli.edu.tr/prolab1/prolab1.txt";
+    char url[] = "https://bilgisayar.kocaeli.edu.tr/prolab1/prolab1.txt";
 
     curl_easy_setopt(curl, CURLOPT_URL, url);
 
