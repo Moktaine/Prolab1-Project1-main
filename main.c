@@ -324,7 +324,6 @@ void CheckBigSquares(int squaresPerEdge){
 
         for(int j = 0; j < squareCount; j++){
             squareCounter = 0;
-            //RemoveSquareFromSquareArray(DrawableSquares[j].x,DrawableSquares[j].y, squaresPerEdge, i);
 
             for(int k = j; k < squareCount; k++){
                 int currentX = DrawableSquares[k].x;
@@ -348,14 +347,6 @@ void CheckBigSquares(int squaresPerEdge){
             if(squareCounter > maxSquareCount){
                 maxSquareCount = squareCounter;
                 maxSquareCountIndex = j;
-                if(squaresPerEdge==4){
-
-                    printf("%d max\n", maxSquareCount);
-                    glPointSize(5);
-                    glBegin(GL_POINTS);
-                        glVertex2i(DrawableSquares[j].x, DrawableSquares[j].y);
-                    glEnd();
-                }
             }
 
             for(int k = 0; k < squareCounts[i]; k++){
@@ -831,7 +822,7 @@ int main(int argc, char **argv)
     scanf("%d", &platformCost);
 
     //Set Coordinates
-    char testText[100] = "1B(10,10)(20,5)(30,12)(15,25)(10,10)(60,5)(90,10)(80,25)(50,20)(60,5)F";
+    char testText[100] = "1B(5,10)(20,5)(30,12)(15,40)(5,10)(60,5)(90,20)(80,25)(50,4ssssssssssssssssss0)(60,5)F";
 
     //setCoordinates(ReadLineFromURL());
     setCoordinates(testText);

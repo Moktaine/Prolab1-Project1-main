@@ -16,7 +16,7 @@
 					<Add directory="curl-8.4.0_6-win64-mingw/include" />
 				</Compiler>
 				<Linker>
-					<Add option="-lcurl -lfreeglut -lglew32 -lopengl32" />
+					<Add option="-lcurl -lfreeglut -lopengl32" />
 					<Add library="curl-8.4.0_6-win64-mingw/lib/libcurl.a" />
 					<Add directory="curl-8.4.0_6-win64-mingw/lib" />
 				</Linker>
