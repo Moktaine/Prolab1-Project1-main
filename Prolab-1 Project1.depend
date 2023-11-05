@@ -1,0 +1,166 @@
+# depslib dependency file v1.0
+1699034851 source:c:\users\alper\onedrive\desktop\prolab-1\prolab-1 project1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<GL/glut.h>
+	<curl/curl.h>
+
+1696481930 c:\users\alper\onedrive\desktop\curl-8.4.0_6-win64-mingw\curl-8.4.0_6-win64-mingw\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"header.h"
+	"websockets.h"
+	"typecheck-gcc.h"
+
+1696991990 c:\users\alper\onedrive\desktop\curl-8.4.0_6-win64-mingw\curl-8.4.0_6-win64-mingw\include\curl\curlver.h
+
+1696481930 c:\users\alper\onedrive\desktop\curl-8.4.0_6-win64-mingw\curl-8.4.0_6-win64-mingw\include\curl\system.h
+	<ConditionalMacros.h>
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1696481930 c:\users\alper\onedrive\desktop\curl-8.4.0_6-win64-mingw\curl-8.4.0_6-win64-mingw\include\curl\easy.h
+
+1696481930 c:\users\alper\onedrive\desktop\curl-8.4.0_6-win64-mingw\curl-8.4.0_6-win64-mingw\include\curl\multi.h
+	"curl.h"
+
+1696481930 c:\users\alper\onedrive\desktop\curl-8.4.0_6-win64-mingw\curl-8.4.0_6-win64-mingw\include\curl\urlapi.h
+	"curl.h"
+
+1696481930 c:\users\alper\onedrive\desktop\curl-8.4.0_6-win64-mingw\curl-8.4.0_6-win64-mingw\include\curl\options.h
+
+1696481930 c:\users\alper\onedrive\desktop\curl-8.4.0_6-win64-mingw\curl-8.4.0_6-win64-mingw\include\curl\header.h
+
+1696481930 c:\users\alper\onedrive\desktop\curl-8.4.0_6-win64-mingw\curl-8.4.0_6-win64-mingw\include\curl\websockets.h
+
+1696481930 c:\users\alper\onedrive\desktop\curl-8.4.0_6-win64-mingw\curl-8.4.0_6-win64-mingw\include\curl\typecheck-gcc.h
+
+1699137148 source:c:\users\alper\onedrive\desktop\220202103_prolab-1 project1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<GL/glut.h>
+	<curl/curl.h>
+
+1696481930 c:\users\alper\onedrive\desktop\220202103_prolab-1 project1\curl-8.4.0_6-win64-mingw\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"header.h"
+	"websockets.h"
+	"typecheck-gcc.h"
+
+1696991990 c:\users\alper\onedrive\desktop\220202103_prolab-1 project1\curl-8.4.0_6-win64-mingw\include\curl\curlver.h
+
+1696481930 c:\users\alper\onedrive\desktop\220202103_prolab-1 project1\curl-8.4.0_6-win64-mingw\include\curl\system.h
+	<ConditionalMacros.h>
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1696481930 c:\users\alper\onedrive\desktop\220202103_prolab-1 project1\curl-8.4.0_6-win64-mingw\include\curl\easy.h
+
+1696481930 c:\users\alper\onedrive\desktop\220202103_prolab-1 project1\curl-8.4.0_6-win64-mingw\include\curl\multi.h
+	"curl.h"
+
+1696481930 c:\users\alper\onedrive\desktop\220202103_prolab-1 project1\curl-8.4.0_6-win64-mingw\include\curl\urlapi.h
+	"curl.h"
+
+1696481930 c:\users\alper\onedrive\desktop\220202103_prolab-1 project1\curl-8.4.0_6-win64-mingw\include\curl\options.h
+
+1696481930 c:\users\alper\onedrive\desktop\220202103_prolab-1 project1\curl-8.4.0_6-win64-mingw\include\curl\header.h
+
+1696481930 c:\users\alper\onedrive\desktop\220202103_prolab-1 project1\curl-8.4.0_6-win64-mingw\include\curl\websockets.h
+
+1696481930 c:\users\alper\onedrive\desktop\220202103_prolab-1 project1\curl-8.4.0_6-win64-mingw\include\curl\typecheck-gcc.h
+
+1699152829 source:c:\users\tahaa\onedrive\masaüstü\prolab1-project1-main\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<GL/glut.h>
+	<curl/curl.h>
+
+1699150629 c:\users\tahaa\onedrive\masaüstü\prolab1-project1-main\curl-8.4.0_6-win64-mingw\include\curl\curl.h
+	"curlver.h"
+	"system.h"
+	<stdio.h>
+	<limits.h>
+	<osreldate.h>
+	<sys/types.h>
+	<time.h>
+	<winsock2.h>
+	<ws2tcpip.h>
+	<sys/select.h>
+	<sys/socket.h>
+	<sys/time.h>
+	"easy.h"
+	"multi.h"
+	"urlapi.h"
+	"options.h"
+	"header.h"
+	"websockets.h"
+	"typecheck-gcc.h"
+
+1699150629 c:\users\tahaa\onedrive\masaüstü\prolab1-project1-main\curl-8.4.0_6-win64-mingw\include\curl\curlver.h
+
+1699150629 c:\users\tahaa\onedrive\masaüstü\prolab1-project1-main\curl-8.4.0_6-win64-mingw\include\curl\system.h
+	<ConditionalMacros.h>
+	<winsock2.h>
+	<windows.h>
+	<ws2tcpip.h>
+	<sys/types.h>
+	<sys/socket.h>
+	<sys/poll.h>
+
+1699150629 c:\users\tahaa\onedrive\masaüstü\prolab1-project1-main\curl-8.4.0_6-win64-mingw\include\curl\easy.h
+
+1699150629 c:\users\tahaa\onedrive\masaüstü\prolab1-project1-main\curl-8.4.0_6-win64-mingw\include\curl\multi.h
+	"curl.h"
+
+1699150629 c:\users\tahaa\onedrive\masaüstü\prolab1-project1-main\curl-8.4.0_6-win64-mingw\include\curl\urlapi.h
+	"curl.h"
+
+1699150629 c:\users\tahaa\onedrive\masaüstü\prolab1-project1-main\curl-8.4.0_6-win64-mingw\include\curl\options.h
+
+1699150629 c:\users\tahaa\onedrive\masaüstü\prolab1-project1-main\curl-8.4.0_6-win64-mingw\include\curl\header.h
+
+1699150629 c:\users\tahaa\onedrive\masaüstü\prolab1-project1-main\curl-8.4.0_6-win64-mingw\include\curl\websockets.h
+
+1699150629 c:\users\tahaa\onedrive\masaüstü\prolab1-project1-main\curl-8.4.0_6-win64-mingw\include\curl\typecheck-gcc.h
+
